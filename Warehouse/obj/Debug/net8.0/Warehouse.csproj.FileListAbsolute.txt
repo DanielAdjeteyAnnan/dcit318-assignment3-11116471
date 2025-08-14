@@ -1,0 +1,15 @@
+/workspaces/dcit318-assignment3-11116471/Warehouse/bin/Debug/net8.0/Warehouse
+/workspaces/dcit318-assignment3-11116471/Warehouse/bin/Debug/net8.0/Warehouse.deps.json
+/workspaces/dcit318-assignment3-11116471/Warehouse/bin/Debug/net8.0/Warehouse.runtimeconfig.json
+/workspaces/dcit318-assignment3-11116471/Warehouse/bin/Debug/net8.0/Warehouse.dll
+/workspaces/dcit318-assignment3-11116471/Warehouse/bin/Debug/net8.0/Warehouse.pdb
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.AssemblyInfoInputs.cache
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.AssemblyInfo.cs
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.csproj.CoreCompileInputs.cache
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.sourcelink.json
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.dll
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/refint/Warehouse.dll
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.pdb
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/Warehouse.genruntimeconfig.cache
+/workspaces/dcit318-assignment3-11116471/Warehouse/obj/Debug/net8.0/ref/Warehouse.dll
