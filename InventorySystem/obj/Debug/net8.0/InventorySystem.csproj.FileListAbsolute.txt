@@ -1,0 +1,15 @@
+/workspaces/dcit318-assignment3-11116471/InventorySystem/bin/Debug/net8.0/InventorySystem
+/workspaces/dcit318-assignment3-11116471/InventorySystem/bin/Debug/net8.0/InventorySystem.deps.json
+/workspaces/dcit318-assignment3-11116471/InventorySystem/bin/Debug/net8.0/InventorySystem.runtimeconfig.json
+/workspaces/dcit318-assignment3-11116471/InventorySystem/bin/Debug/net8.0/InventorySystem.dll
+/workspaces/dcit318-assignment3-11116471/InventorySystem/bin/Debug/net8.0/InventorySystem.pdb
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.AssemblyInfoInputs.cache
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.AssemblyInfo.cs
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.csproj.CoreCompileInputs.cache
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.sourcelink.json
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.dll
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/refint/InventorySystem.dll
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.pdb
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/InventorySystem.genruntimeconfig.cache
+/workspaces/dcit318-assignment3-11116471/InventorySystem/obj/Debug/net8.0/ref/InventorySystem.dll
