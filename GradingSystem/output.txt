@@ -1,0 +1,13 @@
+================== STUDENT REPORT ==================
+ID     Name                 Score  Grade  Status
+------------------------------------------------------
+101    Alice Smith          84     A      Pass  
+102    Bob Johnson          73     B      Pass  
+103    Charlie Adams        65     C      Pass  
+104    Diana Evans          49     F      Fail  
+------------------------------------------------------
+Total Students: 4
+Average Score: 67.75
+Highest Score: 84 (Alice Smith)
+Lowest Score : 49 (Diana Evans)
+=====================================================

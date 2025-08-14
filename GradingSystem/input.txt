@@ -1,0 +1,4 @@
+101, Alice Smith, 84
+102, Bob Johnson, 73
+103, Charlie Adams, 65
+104, Diana Evans, 49
