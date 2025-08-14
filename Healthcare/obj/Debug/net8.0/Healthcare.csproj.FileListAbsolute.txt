@@ -1,0 +1,15 @@
+/workspaces/dcit318-assignment3-11116471/Healthcare/bin/Debug/net8.0/Healthcare
+/workspaces/dcit318-assignment3-11116471/Healthcare/bin/Debug/net8.0/Healthcare.deps.json
+/workspaces/dcit318-assignment3-11116471/Healthcare/bin/Debug/net8.0/Healthcare.runtimeconfig.json
+/workspaces/dcit318-assignment3-11116471/Healthcare/bin/Debug/net8.0/Healthcare.dll
+/workspaces/dcit318-assignment3-11116471/Healthcare/bin/Debug/net8.0/Healthcare.pdb
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.AssemblyInfoInputs.cache
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.AssemblyInfo.cs
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.csproj.CoreCompileInputs.cache
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.sourcelink.json
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.dll
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/refint/Healthcare.dll
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.pdb
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/Healthcare.genruntimeconfig.cache
+/workspaces/dcit318-assignment3-11116471/Healthcare/obj/Debug/net8.0/ref/Healthcare.dll
